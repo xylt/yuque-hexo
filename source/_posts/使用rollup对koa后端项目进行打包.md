@@ -1,6 +1,6 @@
 ---
 title: 使用rollup对koa后端项目进行打包
-cover: /images/123.jpg
+cover: /images/123.png
 date: '2024-02-19 10:14:30'
 updated: '2024-08-18 20:14:54'
 ---
