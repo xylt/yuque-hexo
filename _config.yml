@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 语雀-Hexo
-subtitle: '语雀 + Elog + Hexo + GitHub Actions + Vercel 博客解决方案'
-description: '语雀 + Elog + Hexo + GitHub Actions + Vercel 博客解决方案'
+title: Ezio-Blog
+subtitle: ''
+description: '知乃行之始，行乃知之成'
 keywords:
-author: 1874
+author: Ezio
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://yuque-hexo.vercel.app
+url: https://notion-hexo.vercel.app
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -43,14 +43,15 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
-syntax_highlighter: highlight.js
 highlight:
+  enable: true
   line_number: true
   auto_detect: false
   tab_replace: ''
   wrap: true
   hljs: false
 prismjs:
+  enable: false
   preprocess: true
   line_number: true
   tab_replace: ''
@@ -96,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
