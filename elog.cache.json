@@ -1,0 +1,35 @@
+{
+  "docs": [
+    {
+      "id": 158830536,
+      "doc_id": "qvzq2tm88a79gopf",
+      "updated": 1723983294000,
+      "properties": {
+        "title": "使用rollup对koa后端项目进行打包",
+        "date": "2024-02-19 10:14:30",
+        "updated": "2024-08-18 20:14:54"
+      },
+      "catalog": [],
+      "realName": "使用rollup对koa后端项目进行打包",
+      "relativePath": "\\使用rollup对koa后端项目进行打包.md",
+      "docPath": "./source/_posts"
+    }
+  ],
+  "catalog": [
+    {
+      "type": "DOC",
+      "title": "使用rollup对koa后端项目进行打包",
+      "uuid": "bWLQ1BH8EglAq7By",
+      "url": "qvzq2tm88a79gopf",
+      "prev_uuid": "",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 158830536,
+      "level": 0,
+      "id": 158830536,
+      "open_window": 1,
+      "visible": 1
+    }
+  ]
+}
